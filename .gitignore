@@ -1,0 +1,2 @@
+# Ignore local folders that get created
+.idea/

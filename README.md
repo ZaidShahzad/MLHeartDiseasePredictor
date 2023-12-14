@@ -1,5 +1,15 @@
 # MLHeartDiseasePredictor
 
+## Table of Contents
+- [Overview](#overview)
+- [Live Demo](#live-demo)
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [Technical Aspects](#technical-aspects)
+- [Installation and Local Run](#installation-and-local-run)
+- [License](#license)
+- [Authors](#authors)
+
 ## Overview
 The MLHeartDiseasePredictor is an interactive machine learning application designed to predict the likelihood of heart disease in patients based on various clinical parameters. Built using Python, it leverages a Support Vector Machine (SVM) model for predictions and is deployed with a Gradio interface on Hugging Face Spaces.
 
@@ -30,3 +40,8 @@ To run the application locally, follow these steps:
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+## Authors
+1. [Zaid Shahzad](https://github.com/ZaidShahzad)
+2. [Ash112alash](https://github.com/ash112alash)
+3. [Diegotyb](https://github.com/Diegotyb)
